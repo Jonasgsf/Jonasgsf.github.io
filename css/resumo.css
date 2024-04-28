@@ -1,0 +1,35 @@
+.apresentacao_resumo div{
+    text-align: center;
+}
+
+header div p{
+    font-size: 18px;
+    text-align:inherit
+}
+section div{
+    margin-left: 20px;
+}
+section div p{
+    margin-left: 35px;
+}
+
+.imagem_perfil_resumo{
+    background-color: #C3D0D5;
+    border-radius: 15px;
+}
+
+#nome_resumo{
+    font-size: 20px !important;
+    text-shadow: 0px 1px 2px darkslategray;
+}
+
+#Certificados li {
+    margin: 15px;
+}
+
+#voltar_botao:hover{
+    box-shadow:none;
+    background-color: transparent;
+}
+
+
